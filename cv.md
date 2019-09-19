@@ -78,3 +78,10 @@ I independently study JS,  I own html5, CSS, Less. Tools: Photoshop, Marsy, Asse
         transform: rotate(45deg);
         opacity: 0;
         }
+
+[Link to my portfolio with my works]
+       (https://vadim30.github.io)
+       
+I study in online school [GeekBrains] (https://geekbrains.ru), specialty JS-developer.
+
+I’m learning English at this moment. I used to learn German.        
