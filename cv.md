@@ -83,4 +83,4 @@ I independently study JS,  I own html5, CSS, Less. Tools: Photoshop, Marsy, Asse
        
 I study in online school [GeekBrains.ru](https://geekbrains.ru), specialty JS-developer.
 
-I’m learning English at this moment. I used to learn German. 
+
