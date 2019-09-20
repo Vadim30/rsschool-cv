@@ -1,0 +1,27 @@
+body{
+    max-width: 1024px;
+    margin: 0 auto;
+    background-color:#006C51;
+}
+.main-header{
+    padding: 30px;
+    background-color: #A63E00;
+    border-radius: 20px;
+}
+.navbar{
+    display: flex;
+    flex-direction: row-reverse;
+}
+.navbar__link{
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding: 5px 10px;
+    color: black;
+}
+.navbar__link:hover{
+    color: beige;
+}
+.navbar__link:active{
+    color: black;
+}
