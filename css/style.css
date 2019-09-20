@@ -25,3 +25,37 @@ body{
 .navbar__link:active{
     color: black;
 }
+main{
+    background-color: #9B001C;
+    padding: 10px;
+    border-radius: 20px;
+}
+.wrap{
+    display: flex;
+    justify-content: space-between;
+}
+mark{
+    font-size: 40px;
+    background-color: transparent;
+}
+.block{
+    width: 500px;
+}
+.block__tel,
+.block__email{
+    display: block;
+    text-decoration: none;
+    color: azure;
+    margin-left: 20px;
+    font-size: 20px;
+    font-weight: bolder;
+}
+.block__tel:hover,
+.block__email:hover{
+    color: #A63E00;
+}
+.block__myGoal,
+.block__independently{
+    font-size: 20px;
+    font-family: serif;
+}
