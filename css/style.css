@@ -1,0 +1,105 @@
+body{
+    max-width: 1024px;
+    margin: 0 auto;
+    background-color:#006C51;
+}
+.main-header{
+    padding: 30px;
+    background-color: #A63E00;
+    border-radius: 20px;
+}
+.navbar{
+    display: flex;
+    flex-direction: row-reverse;
+}
+.navbar__link{
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding: 5px 10px;
+    color: black;
+}
+.navbar__link:hover{
+    color: beige;
+}
+.navbar__link:active{
+    color: black;
+}
+main{
+    background-color: #9B001C;
+    padding: 20px;
+    border-radius: 20px;
+}
+.wrap{
+    display: flex;
+    margin-bottom: 30px;
+    justify-content: space-between;
+}
+mark{
+    font-size: 40px;
+    background-color: transparent;
+}
+.block{
+    width: 500px;
+}
+.block__tel,
+.block__email{
+    display: block;
+    text-decoration: none;
+    color: azure;
+    margin-left: 20px;
+    font-size: 20px;
+    font-weight: bolder;
+}
+.block__tel:hover,
+.block__email:hover{
+    color: #A63E00;
+}
+.block__myGoal,
+.block__independently{
+    font-size: 20px;
+    font-family: serif;
+}
+.linkPortfolio{
+    text-decoration: none;
+    font-size: 20px;
+    display: block;
+    padding: 10px 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    margin-left: 20px;
+    width: 450px;
+}
+.linkPortfolio:hover{
+    background-color: black;
+    color: #fff;
+}
+.school,
+.english{
+    display: block;
+    font-size: 19px;
+    margin-top: 20px;
+}
+.linkGeekBrain{
+    text-decoration: none;
+    color: #fff;
+}
+.linkGeekBrain:hover{
+    color: #A63E00;
+}
+.footer{
+ padding: 10px;
+ background-color: #A63E00;
+ border-radius: 20px;
+}
+.copy{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-weight: bolder; 
+}
+
+.myCode{
+    background-color: rgb(192, 186, 186);
+    border-radius: 20px;
+}
