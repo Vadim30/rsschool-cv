@@ -27,11 +27,12 @@ body{
 }
 main{
     background-color: #9B001C;
-    padding: 10px;
+    padding: 20px;
     border-radius: 20px;
 }
 .wrap{
     display: flex;
+    margin-bottom: 30px;
     justify-content: space-between;
 }
 mark{
@@ -58,4 +59,42 @@ mark{
 .block__independently{
     font-size: 20px;
     font-family: serif;
+}
+.linkPortfolio{
+    text-decoration: none;
+    font-size: 20px;
+    display: block;
+    padding: 10px 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    margin-left: 20px;
+    width: 450px;
+}
+.linkPortfolio:hover{
+    background-color: black;
+    color: #fff;
+}
+.school,
+.english{
+    display: block;
+    font-size: 19px;
+    margin-top: 20px;
+}
+.linkGeekBrain{
+    text-decoration: none;
+    color: #fff;
+}
+.linkGeekBrain:hover{
+    color: #A63E00;
+}
+.footer{
+ padding: 10px;
+ background-color: #A63E00;
+ border-radius: 20px;
+}
+.copy{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-weight: bolder; 
 }
